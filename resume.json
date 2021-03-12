@@ -1,0 +1,196 @@
+{
+  "basics": {
+    "name": "Thomas Timmers",
+    "label": "a seniorish full-stack web developer (& DevOps/Performance enthusiast)",
+    "picture": "https://www.timmersthomas.be/assets/avatar7_small.jpg",
+    "email": "me@timmersthomas.be",
+    "phone": "+32(495) 913928",
+    "website": "https://timmersthomas.be",
+    "summary": "A jack of all trades with a big interest to learn new things. Broad range of interests, going from new front-end techniques to devops integrations and backend architectures. Oh ... and also a coffee lover ;)",
+    "location": {
+      "postalCode": "2610",
+      "city": "Wilrijk",
+      "countryCode": "BE",
+      "region": "Belgium"
+    },
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "timmersthomas",
+        "url": "https://github.com/timmersthomas"
+      },
+      {
+        "network": "Linkedin",
+        "username": "timmersthomas",
+        "url": "https://www.linkedin.com/in/timmersthomas/"
+      },
+      {
+        "network": "Twitter",
+        "username": "timmersthomas",
+        "url": "https://twitter.com/timmersthomas"
+      },
+      {
+        "network": "Instagram",
+        "username": "timmersthomas",
+        "url": "https://www.instagram.com/timmersthomas/"
+      }
+    ]
+  },
+  "work": [
+    {
+        "company": "AirTies Wireless Networks",
+        "position": "Senior Software Engineer",
+        "website": "https://airties.com/",
+        "startDate": "2020-09-01",
+        "summary": "Trying to make your wifi-network better, because it also deserves some love ;)",
+        "highlights": [
+            "Working in java-oriented 'you build it you run it you own it'-team",
+            "Heavily working with quite some AWS services",
+            "Trying to be as language-agnostic as possible, just do it :)",
+            "Do some research on new technologies and implement them if needed"
+        ]
+    },
+    {
+      "company": "A.S. Adventure",
+      "position": "Front-End Team Lead (& DevOps specialist)",
+      "website": "https://www.asadventure.com",
+      "startDate": "2016-01-01",
+      "endDate": "2020-08-31",
+      "summary": "Working with a internal and external team to expand the web platform (Adobe Experience Manager with React/AngularJS components) for all the websites within the A.S. Adventure group.",
+      "highlights": [
+        "Making sure that the website is performing as good/fast as possible",
+        "Always looking for new enhancements within our ecosystem",
+        "Thinking about getting the most out of our Adobe ecosystem",
+        "Making sure that everything stays IaC from a DevOps standpoint",
+        "Trying to be (a part of) the glue between the front-end and back-end team",
+        "Do some research on new technologies and implement them if needed"
+      ]
+    },
+    {
+      "company": "Clear Digital",
+      "position": "Full stack developer",
+      "website": "http://cleardigital.be",
+      "startDate": "2013-03-18",
+      "endDate": "2015-12-31",
+      "summary": "",
+      "highlights": [
+        "Web development in Symfony2 (php) with a focus on integrated solutions",
+        "Native/not-so-native (Cordova) mobile development",
+        "Internal standardisation guy"
+      ]
+    },
+    {
+      "company": "Analyz-IT",
+      "position": "Junior/Medior web developer",
+      "website": "https://analyz-it.be",
+      "startDate": "2009-08-01",
+      "endDate": "2013-03-16",
+      "summary": "Web development in ASP.NET (C#) with a focus on commercial websites and intranet applications",
+      "highlights": ["Internal sys administrator"]
+    },
+    {
+      "company": "Högskolan Halmstad, Sweden",
+      "position": "Intern",
+      "website": "https://hh.se/",
+      "startDate": "2009-03-01",
+      "endDate": "2009-06-01",
+      "summary": "Analysing and developing a webbased 'risk management'-tool in ASP.NET",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Katholieke Hogeschool Kempen, Geel",
+      "area": "Applied Information Technologies",
+      "studyType": "Bachelor",
+      "startDate": "2006-09-01",
+      "endDate": "2009-06-30",
+      "gpa": "4.0",
+      "courses": []
+    },
+    {
+      "institution": "Sint Franciscus College, Heusden-Zolder",
+      "area": "Accountancy-Informatics",
+      "studyType": "High school",
+      "startDate": "2000-09-01",
+      "endDate": "2006-06-30",
+      "gpa": "3.0",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "skills": [
+    {
+      "name": "Front-End Dev",
+      "level": "85",
+      "keywords": ["AngularJS", "React", "React SSR", "Webpack", "Performance"]
+    },
+    {
+      "name": "Cloud Native Dev",
+      "level": "80",
+      "keywords": ["AWS", "Serverless", "Infrastructure as code"]
+    },
+    {
+      "name": "DevOps",
+      "level": "75",
+      "keywords": ["CI/CD", "Jenkins", "CloudFormation"]
+    },
+    {
+      "name": "Back-End Dev",
+      "level": "65",
+      "keywords": ["Spring Boot", "NodeJS", "PHP", "Symfony2"]
+    },
+    {
+      "name": "Mobile Dev",
+      "level": "50",
+      "keywords": ["Objective-C", "Swift", "Phonegap"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Dutch",
+      "fluency": "ILR Level 5"
+    },
+    {
+      "language": "English",
+      "fluency": "ILR Level 4"
+    },
+    {
+      "language": "German",
+      "fluency": "ILR Level 2"
+    },
+    {
+      "language": "French",
+      "fluency": "ILR Level 2"
+    }
+  ],
+  "references": [],
+  "interests": [
+    {
+      "name": "Website performance"
+    },
+    {
+      "name": "drinking some coffee"
+    },
+    {
+      "name": "reading (on the internet or a book)"
+    },
+    {
+      "name": "concerts"
+    },
+    {
+      "name": "learning new IT-stuff"
+    },
+    {
+      "name": "automation on everything (from IoT till install/configure my macOS machine) "
+    }
+  ],
+  "meta": {
+    "additionalSiteData": {
+      "projectCompleted": "+1",
+      "introBackground": "https://www.timmersthomas.be/assets/hero_bg.svg",
+      "runningTotalKm": "1224 km",
+      "runningYear": "2020"
+    }
+  }
+}

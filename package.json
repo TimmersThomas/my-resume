@@ -1,0 +1,20 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "jsonresume-theme-flat": "^0.3.7",
+    "jsonresume-theme-kards": "https://github.com/TimmersThomas/jsonresume-theme-kards",
+    "resume-cli": "3.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "npm run build:html && npm run build:pdf",
+    "build:html": "resume export output/index.html  --theme ./node_modules/jsonresume-theme-kards",
+    "build:pdf": "resume export output/resume.pdf  --theme flat"
+  },
+  "author": "",
+  "license": "ISC"
+}
